@@ -1,0 +1,5 @@
+Nguyen Thi Ai Vy,12/1/2000,KT01,7.9,6.3
+Tran Linh Nhi,07/12/2002,CNTT2,8.0,7.0,8.0
+Trinh Dinh Phuc,21/03/2002,CNTT2,8.6,6.0,7.9
+Trinh Dac Thai,07/10/2002,CNTT2,8.8,6.9,7.8
+Pham Van Phuc,22/01/2002,CNTT2,7.6,8.2,8.3
